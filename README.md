@@ -45,14 +45,18 @@ Our 6th story pane shifts the data analysis back to temporal to help us understa
 
 ![Story_6](https://github.com/dpTuttle/bikesharing/blob/main/Story_6.png)
 
+We complete the same analysis across genders and find that (congruent with our rider demographic data), more MALES use the bike share program and are heavy weekday work commute users. Interestingly though, Wednesday's are a light usage day across both genders:
 
+![Story_7](https://github.com/dpTuttle/bikesharing/blob/main/Story_7.png)
 
-
-
-
-
-
+Lastly, we analyze usage across genders and customer type. The data here suggests that MALE subscribers are use the bike share program the most and heavily on Mondays, Tuesdays, Thursdays and Fridays. Perhaps these are heavy traffic days and the bikes make for easy commutes. FEMALE subscribers are consistent weekday users as well. Most non-subscription customers use the bike share program on Saturdays (again, suggesting that these users may be tourists).
 
 
 ### Summary:
+
+- Overall, the data suggests that a subscription based bike share program centered on solving final mile transit or commute issues may be most effective for any city. The terminals should be located near heavy traffic or critical public transit hubs. 
+
+- To better understand usage, two additional visuals would help:
+1.) a comparison between ridership and weather (to understand if the local weather is a limiting factor for usage)
+2.) a comparison between start and stop locations for high usage bikeids to predict potential failure modes and the need for downtime (is that after 5 station usage, 50 hrs of riding, etc?).
 
